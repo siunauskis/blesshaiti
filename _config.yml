@@ -1,0 +1,6 @@
+name: BlessHaiti
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+
+site.title: Bless Haiti
